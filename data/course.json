@@ -1,0 +1,33 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Humanities",
+      "History",
+      "American History"
+    ],
+    [
+      "Social Science",
+      "Anthropology",
+      "Ethnography"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "e7842a30-b729-62d2-b40f-d23739b108c2"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "The Places of Migration in United States History",
+  "course_description": "This course examines the history of the United States as a \"nation of immigrants\" within a broader global context. It considers migration from the mid-19th century to the present through case studies of such places as New York's Lower East Side, South Texas, Florida, and San Francisco's Chinatown. It also examines the role of memory, media, and popular culture in shaping ideas about migration. The course includes optional field trip to New York City.\n",
+  "department_numbers": [
+    "21H"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21H.221",
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Written Assignments with Examples"
+  ],
+  "title": "Course Metadata"
+}
